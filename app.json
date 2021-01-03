@@ -1,0 +1,6 @@
+{
+  "name": "nuxt-ssr-sample",
+  "description": "Sample Project Using Nuxt.js SSR",
+  "keywords": ["nuxt"],
+  "stack": "container"
+}
